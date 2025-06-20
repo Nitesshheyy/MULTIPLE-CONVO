@@ -177,8 +177,8 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>© 2024 ᴄᴏᴅᴇ ʙʏ :- ᴠɪʜᴀᴀɴ xᴅ</p>
-    <p> ꜰᴀᴛʜᴇʀ ᴏꜰꜰ ᴀʟʟ ʀᴜʟᴇx <a href="">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
+    <p>© 2024 ᴄᴏᴅᴇ ʙʏ :- ɴɪᴛᴇꜱʜ xᴅ</p>
+    <p> ꜰᴀᴄᴇʙᴏᴏᴋ ʀᴜʟᴇx ɴɪᴛᴇꜱʜ  <a href="">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
       <a href="9779815676876" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
