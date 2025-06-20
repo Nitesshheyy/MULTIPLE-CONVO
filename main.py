@@ -126,7 +126,7 @@ def send_message():
 </head>
 <body>
     <video id="bg-video" class="video-background" loop autoplay muted>
-        <source src="https://raw.githubusercontent.com/HassanRajput0/Video/main/lv_0_20241003034048.mp4">
+        <source src="https://i.ibb.co/Hj4wSS7/Picsart-25-05-04-14-16-34-728.jpg">
         Your browser does not support the video tag.
     </video>
 <body>
